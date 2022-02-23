@@ -6,4 +6,4 @@ Individual Assginments for [UofT CSC401/2511 - Natural Language Computing](https
 
 Identify political persuasion on Reddit followed the steps pre-processing, tokenizing, and tagging; feature extraction; and classification.
 
-### Ongoing course and assginments. Implementation inluding other assignments will be released later.
+### Ongoing course and assginments. Implementation including other assignments will be released later.
