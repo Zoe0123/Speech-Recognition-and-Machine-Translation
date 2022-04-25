@@ -14,4 +14,4 @@ Implemented and compared *seq2seq* model with or without multi-headed attention.
 ## [Assignment 3 Speaker Identification and Speech Recognition](https://www.cs.toronto.edu/~frank/csc401/assignments/A3/CSC401_A3.pdf) 
 ### [Implementation](https://github.com/Zoe0123/speaker-identification-and-speech-recognition)
 
-Conducted speaker identification， deception detection and speech recognition utilizing Gaussian mixture modelling and Recurrent neural networks.
+Conducted speaker identification, deception detection and speech recognition utilizing Gaussian mixture modelling and Recurrent neural networks.
