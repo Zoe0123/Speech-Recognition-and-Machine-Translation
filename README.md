@@ -11,7 +11,7 @@ Identify political persuasion on Reddit followed the steps pre-processing, token
 
 Implemented and compared *seq2seq* model with or without multi-headed attention. Trained with teacher-forcing and decoded using beam search.
 
-## [Assignment 2 ](https://www.cs.toronto.edu/~frank/csc401/assignments/A3/CSC401_A3.pdf) 
+## [Assignment 3 Speaker Identification and Speech Recognition](https://www.cs.toronto.edu/~frank/csc401/assignments/A3/CSC401_A3.pdf) 
 ### [Implementation](https://github.com/Zoe0123/speaker-identification-and-speech-recognition)
 
 Conducted speaker identification， deception detection and speech recognition utilizing Gaussian mixture modelling and Recurrent neural networks.
